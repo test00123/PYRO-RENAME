@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "")
 
 DB_NAME = os.environ.get("DB_NAME","pyro-botz")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://manju:manju@cluster0.ufpy5w1.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://abcd:abcd@cluster0.5tsradf.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
